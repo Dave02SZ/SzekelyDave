@@ -1,1 +1,1 @@
-# SzD
+# Székely Dávid Repo
