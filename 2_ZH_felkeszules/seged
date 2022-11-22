@@ -1,0 +1,4 @@
+"eloado": s[0],
+            "cim": s[1],
+            "mufaj": s[2],
+            "hossz": int(s[3])

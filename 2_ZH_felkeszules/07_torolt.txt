@@ -1,0 +1,10 @@
+Előadó: Steppenwolf ; Cím: Born To Be Wild ; Műfaj: rock ; A dal hossza: 216
+Előadó: Powerwolf ; Cím: Incense and Iron ; Műfaj: metal ; A dal hossza: 240
+Előadó: Smash Mouth ; Cím: All Star ; Műfaj: rock ; A dal hossza: 237
+Előadó: Powerwolf ; Cím: Venom of Venus ; Műfaj: metal ; A dal hossza: 208
+Előadó: Dschinghis Khan ; Cím: Moskau ; Műfaj: pop ; A dal hossza: 275
+Előadó: Dschinghis Khan ; Cím: Dschinghis Khan ; Műfaj: pop ; A dal hossza: 185
+Előadó: Bonnie Tyler ; Cím: Total Eclipse of the Heart ; Műfaj: pop ; A dal hossza: 334
+Előadó: Foster The People ; Cím: Pumped Up Kicks ; Műfaj: pop ; A dal hossza: 253
+Előadó: Powerwolf ; Cím: Dancing With The Dead ; Műfaj: metal ; A dal hossza: 291
+Előadó: Green Day ; Cím: Boulevard of Broken Dreams ; Műfaj: rock ; A dal hossza: 288
